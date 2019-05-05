@@ -1,0 +1,10 @@
+for correct use= change only the value of parameters   
+
+parameters for blast:
+
+Dbase nt  #nr
+Eval 0.01  #other number
+HitList 10000  #other number (how many hits you want to get)
+Align 0  #other number
+Description 10000  #other number
+Ftype XML  #other type of files
